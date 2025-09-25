@@ -3,7 +3,7 @@
 ## Projects
 
 ### Audio Project
-- Description
+- [Description](https://github.com/TemTansey/Trench-Warfare)
 
 ### Necrosis Project
 - Description
